@@ -1,0 +1,92 @@
+[
+  {
+    "NHTSACampaignNumber": "20V123000",
+    "Manufacturer": "Ford Motor Company",
+    "Subject": "Fuel Pump May Fail",
+    "Component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+    "Summary": "Ford Motor Company is recalling certain 2018-2020 F-150 vehicles equipped with 3.5L EcoBoost engines. The fuel pump may fail, causing the engine to stall.",
+    "Consequence": "A fuel pump failure can cause the engine to stall while driving, increasing the risk of a crash.",
+    "Remedy": "Dealers will replace the fuel pump module, free of charge. Owner notification letters are expected to be mailed April 15, 2020.",
+    "Notes": "Owners may contact Ford customer service at 1-866-436-7332.",
+    "ModelYear": "2019",
+    "Make": "FORD",
+    "Model": "F-150",
+    "_vehicle": {
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2019
+    }
+  },
+  {
+    "NHTSACampaignNumber": "21V456000",
+    "Manufacturer": "Ford Motor Company",
+    "Subject": "Windshield Wiper Motor May Fail",
+    "Component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+    "Summary": "Ford Motor Company is recalling certain 2020-2021 Explorer vehicles. The windshield wiper motor may fail.",
+    "Consequence": "Loss of windshield wiper function can reduce visibility during rain, increasing the risk of a crash.",
+    "Remedy": "Dealers will replace the windshield wiper motor, free of charge.",
+    "Notes": "",
+    "ModelYear": "2020",
+    "Make": "FORD",
+    "Model": "EXPLORER",
+    "_vehicle": {
+      "make": "Ford",
+      "model": "Explorer",
+      "year": 2020
+    }
+  },
+  {
+    "NHTSACampaignNumber": "19V789000",
+    "Manufacturer": "Toyota Motor Engineering & Manufacturing",
+    "Subject": "Fuel Pump Impeller May Deform",
+    "Component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+    "Summary": "Toyota is recalling certain 2018-2019 Camry vehicles. The fuel pump impeller may deform, causing the fuel pump to fail.",
+    "Consequence": "If the fuel pump fails, the engine may stall or may not start, increasing the risk of a crash.",
+    "Remedy": "Dealers will replace the fuel pump, free of charge.",
+    "Notes": "",
+    "ModelYear": "2019",
+    "Make": "TOYOTA",
+    "Model": "CAMRY",
+    "_vehicle": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019
+    }
+  },
+  {
+    "NHTSACampaignNumber": "22V111000",
+    "Manufacturer": "General Motors LLC",
+    "Subject": "Brake Fluid Leak",
+    "Component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+    "Summary": "General Motors is recalling certain 2019-2022 Silverado 1500 vehicles. The brake master cylinder may develop a leak.",
+    "Consequence": "A brake fluid leak can result in reduced braking performance, increasing the risk of a crash.",
+    "Remedy": "Dealers will replace the brake master cylinder, free of charge.",
+    "Notes": "",
+    "ModelYear": "2020",
+    "Make": "CHEVROLET",
+    "Model": "SILVERADO 1500",
+    "_vehicle": {
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "year": 2020
+    }
+  },
+  {
+    "NHTSACampaignNumber": "23V222000",
+    "Manufacturer": "Honda",
+    "Subject": "Fuel Pump Failure",
+    "Component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+    "Summary": "Honda is recalling certain 2019-2020 CR-V vehicles with 1.5L turbocharged engines. The fuel pump may fail.",
+    "Consequence": "Engine stall while driving increases the risk of a crash.",
+    "Remedy": "Dealers will replace the fuel pump, free of charge.",
+    "Notes": "",
+    "ModelYear": "2019",
+    "Make": "HONDA",
+    "Model": "CR-V",
+    "_vehicle": {
+      "make": "Honda",
+      "model": "CR-V",
+      "year": 2019
+    }
+  }
+]

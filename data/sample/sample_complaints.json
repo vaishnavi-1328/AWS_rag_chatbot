@@ -1,0 +1,127 @@
+[
+  {
+    "odiNumber": "11234567",
+    "manufacturer": "Ford Motor Company",
+    "crash": "N",
+    "fire": "N",
+    "numberOfInjuries": 0,
+    "numberOfDeaths": 0,
+    "dateOfIncident": "2020-03-15",
+    "dateComplaintFiled": "2020-03-20",
+    "vin": "1FTEW1*********",
+    "components": "ENGINE",
+    "summary": "While driving at highway speed, the engine suddenly lost power and stalled. The check engine light came on. Had to coast to the shoulder. Restarted after 5 minutes but hesitated. Dealer said fuel pump was failing.",
+    "products": [
+      {
+        "productMake": "FORD",
+        "productModel": "F-150",
+        "productYear": 2019
+      }
+    ],
+    "_vehicle": {
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2019
+    }
+  },
+  {
+    "odiNumber": "11234568",
+    "manufacturer": "Ford Motor Company",
+    "crash": "N",
+    "fire": "N",
+    "numberOfInjuries": 0,
+    "numberOfDeaths": 0,
+    "dateOfIncident": "2021-06-10",
+    "dateComplaintFiled": "2021-06-15",
+    "vin": "1FMSK*********",
+    "components": "VISIBILITY:WINDSHIELD WIPER/WASHER",
+    "summary": "Windshield wipers stopped working during heavy rain on the highway. Very dangerous situation. Had to pull over immediately.",
+    "products": [
+      {
+        "productMake": "FORD",
+        "productModel": "EXPLORER",
+        "productYear": 2020
+      }
+    ],
+    "_vehicle": {
+      "make": "Ford",
+      "model": "Explorer",
+      "year": 2020
+    }
+  },
+  {
+    "odiNumber": "11234569",
+    "manufacturer": "General Motors LLC",
+    "crash": "N",
+    "fire": "N",
+    "numberOfInjuries": 0,
+    "numberOfDeaths": 0,
+    "dateOfIncident": "2022-01-20",
+    "dateComplaintFiled": "2022-01-25",
+    "vin": "3GCUY*********",
+    "components": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+    "summary": "Transmission shudders and jerks when accelerating from a stop. Feels like the truck is slipping. Dealer said this is normal for the 8-speed transmission but it doesn't feel right.",
+    "products": [
+      {
+        "productMake": "CHEVROLET",
+        "productModel": "SILVERADO 1500",
+        "productYear": 2020
+      }
+    ],
+    "_vehicle": {
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "year": 2020
+    }
+  },
+  {
+    "odiNumber": "11234570",
+    "manufacturer": "Toyota Motor Engineering & Manufacturing",
+    "crash": "N",
+    "fire": "N",
+    "numberOfInjuries": 0,
+    "numberOfDeaths": 0,
+    "dateOfIncident": "2020-08-05",
+    "dateComplaintFiled": "2020-08-10",
+    "vin": "4T1B1*********",
+    "components": "ENGINE",
+    "summary": "Car stalled at a red light. Would not restart for several minutes. When it finally started, the engine ran rough. Dealer found fuel pump was defective.",
+    "products": [
+      {
+        "productMake": "TOYOTA",
+        "productModel": "CAMRY",
+        "productYear": 2019
+      }
+    ],
+    "_vehicle": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019
+    }
+  },
+  {
+    "odiNumber": "11234571",
+    "manufacturer": "Honda",
+    "crash": "N",
+    "fire": "N",
+    "numberOfInjuries": 0,
+    "numberOfDeaths": 0,
+    "dateOfIncident": "2021-02-28",
+    "dateComplaintFiled": "2021-03-05",
+    "vin": "2HKRW*********",
+    "components": "ENGINE AND ENGINE COOLING",
+    "summary": "Oil dilution issue. Oil smells like gasoline and level keeps rising above full mark. Dealer says it's a known issue with the 1.5T engine in cold climates.",
+    "products": [
+      {
+        "productMake": "HONDA",
+        "productModel": "CR-V",
+        "productYear": 2019
+      }
+    ],
+    "_vehicle": {
+      "make": "Honda",
+      "model": "CR-V",
+      "year": 2019
+    }
+  }
+]
